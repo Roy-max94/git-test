@@ -14,5 +14,6 @@ public class HelloGit {
         System.out.println("Hello Git3 !!!");
         System.out.println("Hello Git4 !!!");
         System.out.println("Hello hot_fix !!!");
+        System.out.println("Hello hot_fix 合并冲突 !!!");
     }
 }
