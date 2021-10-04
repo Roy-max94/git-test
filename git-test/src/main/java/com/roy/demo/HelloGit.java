@@ -16,5 +16,6 @@ public class HelloGit {
         System.out.println("Hello master !!!");
         System.out.println("Hello hot_fix !!!");
         System.out.println("合并冲突 master");
+        System.out.println("Hello hot_fix 合并冲突 !!!");
     }
 }
